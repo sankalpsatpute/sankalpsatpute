@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Sankalp  from India <br><br>- 🔭 I’m student at Savitribai phule pune university ...<br>- 📚 I'm currently learning Python | DSA | SQL | AI & ML<br>- ⚡ In my free time I ...</p>
 
 ###
 
