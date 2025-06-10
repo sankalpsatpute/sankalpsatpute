@@ -10,7 +10,7 @@
 ### 💡 About Me
 
 👨‍🎓 I’m currently pursuing **B.E. in Electronics & Telecommunication Engineering** at **SPPU**  
-🔭 I’m currently working on projects like **Smart Gloves**, **ROY AI Assistant**, and **Piezoelectric Energy Systems**  
+🔭 I’m currently working on projects like  **ROY AI Assistant**
 🌱 I’m currently learning **AI, IoT, Web Development,  Embedded development ,  AI&ML
 💬 Ask me about **Embedded, Python, IoT, or Electronics Projects**  
 📫 How to reach me: **sankalpsatpute177@gmail.com**  
