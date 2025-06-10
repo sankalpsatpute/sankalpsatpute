@@ -13,6 +13,7 @@
 🔭 I’m currently working on projects like  **ROY AI Assistant**
 
 🌱 I’m currently learning **AI, IoT, Web Development,  Embedded development ,  AI&ML
+
 💬 Ask me about **Embedded, Python, IoT, or Electronics Projects**  
 📫 How to reach me: **sankalpsatpute177@gmail.com**  
 📄 Resume: [View My Resume](https://drive.google.com/your-resume-link)  
